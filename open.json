@@ -17,7 +17,7 @@
     "basePath": "/v2",
     "tags": [
         {
-            "name": "pet",
+            "name": "petitki",
             "description": "Everything about your Pets",
             "externalDocs": {
                 "description": "Find out more",
